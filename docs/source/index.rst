@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to ACMarker's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ACMrker** is a fiucial marker system for 2D forward looking sonar.
+It offers a *simple* and *intuitive* API.  
+日本語
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
