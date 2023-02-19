@@ -1,7 +1,7 @@
 Welcome to ACMarker's documentation!
 ===================================
 
-**ACMrker** is a fiucial marker system for 2D forward looking sonar.
+**ACMarker** is a fiucial marker system for 2D forward looking sonar.
 It offers a *simple* and *intuitive* API.  
 日本語
 
